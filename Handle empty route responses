@@ -1,0 +1,1 @@
+Prevents routing errors when no suitable liquidity path is returned.
